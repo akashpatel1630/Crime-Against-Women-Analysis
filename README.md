@@ -1,10 +1,10 @@
-Crimes Against Women Tracker: India 2001-2021 Analysis Dashboar
+1. Crimes Against Women Tracker: India 2001-2021 Analysis Dashboar
 An interactive Power BI visualization analyzing the alarming rise in crimes against women across India, highlighting trends, state-wise hotspots, and domestic violence prevalence over two decades.
 
 2. Purpose
 This dashboard tracks crimes against women in India from 2001-2021 using NCRB data, showing a 151% growth surge and identifying Uttar Pradesh as the leading state. It reveals domestic violence as the most common crime (35% of cases), aiding policymakers, activists, and researchers in addressing gender-based violence trends.
 
-4. Tech Stack
+3. Tech Stack
 The dashboard leverages Power BI tools for comprehensive crime data analysis:
 
 📊 Power BI Desktop – Core platform for interactive visualizations and dashboards.
